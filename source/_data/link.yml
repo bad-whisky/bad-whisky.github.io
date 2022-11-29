@@ -1,0 +1,15 @@
+- class_name: Playlist
+  class_desc:
+  link_list:
+    - name: Playlist
+      link: https://music.163.com/#/playlist?id=27019815
+      avatar: http://p1.music.126.net/yODb1ESWf6sndEOa2EKGlA==/109951167739052695.jpg?param=180y180
+      descr: fav
+
+- class_name: Podcast
+  class_desc:
+  link_list:
+    - name: Podcast
+      link: https://www.kilamanbo.com/manbo/pc/detail?id=1610319737894469722&collectId=1610757364997161019
+      avatar: https://img.hongrenshuo.com.cn/h5/websiteManbo-homebanner3-hzy.jpg?x-oss-process=image/format,jpg/quality,q_60
+      descr: remix
